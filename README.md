@@ -27,3 +27,5 @@ Two types of export and import
 - Named import/export
   export cont Component;
   import {component} from "path";
+
+  to start the project -> npm start
